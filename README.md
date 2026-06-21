@@ -1,2 +1,12 @@
 # result-jiangnan-hub
-HTML page archive and documentation
+
+发布程序会将生成后的页面写入本仓库，形成可追踪的文件记录。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
